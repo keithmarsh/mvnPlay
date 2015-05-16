@@ -1,1 +1,1 @@
-{"mixinTypes":[],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{}},"description":"Play With Java","type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
+{"mixinTypes":[],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{"system:/java/web/tomcat7":{"ram":1000,"variables":{},"options":{}}},"default":"system:/java/web/tomcat7"},"description":"Play With Java","type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
